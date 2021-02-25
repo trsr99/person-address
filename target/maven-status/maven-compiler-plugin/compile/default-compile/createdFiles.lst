@@ -1,0 +1,12 @@
+com\exercise\PersonsApps\repository\PersonRepository.class
+com\exercise\PersonsApps\PersonsAppsApplication.class
+com\exercise\PersonsApps\controller\PersonController.class
+com\exercise\PersonsApps\exceptions\CustomException.class
+com\exercise\PersonsApps\controller\AddressController.class
+com\exercise\PersonsApps\exceptions\ExceptionResponse.class
+com\exercise\PersonsApps\model\Person.class
+com\exercise\PersonsApps\exceptions\GlobalExceptionHandler.class
+com\exercise\PersonsApps\service\AddressService.class
+com\exercise\PersonsApps\service\PersonService.class
+com\exercise\PersonsApps\repository\AddressRepository.class
+com\exercise\PersonsApps\model\Address.class
